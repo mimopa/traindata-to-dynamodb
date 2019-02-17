@@ -1,0 +1,26 @@
+{
+  "name": "traindata-to-dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fetch-json": "^2.2.4",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimopa/traindata-to-dynamodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimopa/traindata-to-dynamodb/issues"
+  },
+  "homepage": "https://github.com/mimopa/traindata-to-dynamodb#readme"
+}
